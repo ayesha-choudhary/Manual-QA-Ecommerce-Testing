@@ -1,4 +1,4 @@
-# Manual-QA-Ecommerce-Testing
+
 # Manual QA Testing – E-Commerce Web Application
 
 ## Project Overview
