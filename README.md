@@ -20,7 +20,7 @@ This repository contains manual QA testing documentation for an e-commerce web a
 - Test Summary Report
 
 ## Tools Used
-- Microsoft Excel / Google Sheets
+- Microsoft Excel 
 - Google Chrome Browser
 
 ## Note
